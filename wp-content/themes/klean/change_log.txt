@@ -1,0 +1,8 @@
+	
+
+	— — — ——  Change Log for Klean Wordpress Theme  — — — —
+
+		v1.0.7	- Initial Release
+
+		v1.1	- 1. Added Linked In icon to social icons
+			  2. Added the feature to upload Logo
