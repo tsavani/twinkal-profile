@@ -35,9 +35,9 @@
 		?>	 		
 	</div>
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'klean' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'klean' ), 'WordPress' ); ?></a>
+			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'klean' ) ); ?>"><?php printf('Twinkal Savani' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'klean' ), 'klean', '<a href="http://www.divjot.co" rel="designer">Divjot Singh</a>' ); ?>
+			<?php printf( 'All great achievements require time.' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
